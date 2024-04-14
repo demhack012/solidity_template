@@ -153,7 +153,7 @@ contract ContractName {
 
     /**
      * @notice Getters are functions that return the value of state variables.
-     * @notice state variables are more gas efficient when set to private so it it preffered tp use getters to access them
+     * @notice state variables are more gas efficient when set to private so it it preffered to use getters to access them
      */
 
     //////////////////////////////////////////////
