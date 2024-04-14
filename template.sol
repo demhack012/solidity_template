@@ -43,6 +43,13 @@ contract ContractName {
     // State Variables //
     /////////////////////
 
+    /**
+     * @notice immutables then constants then state variables
+     * @notice write the name of immuatable as i_variableName
+     * @notice write the name of constant using CAPITAL letters as CONSTANT_NAME
+     * @notice write the name of state variables as s_variableName
+     */
+
     ////////////
     // Events //
     ////////////
