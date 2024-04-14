@@ -1,4 +1,4 @@
-# solidity template
+# Solidity Template
 
 This is based on the contract layout used in Patrick Collins videos.
 I found that it is easier to read codes when they are organized in this way.
