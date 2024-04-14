@@ -60,6 +60,14 @@ contract ContractName {
     // Functions //
     ///////////////
 
+    /**
+     * @notice Remember to Follow CEI pattern which is Checks, Effects, Interactions
+     * checks: validate the inputs
+     * effects: update the state variables
+     * interactions: interact with other contracts or other functions
+     * @notice Write the function name in camelCase
+     */
+
     /////////////////
     // Constructor //
     /////////////////
