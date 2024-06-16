@@ -147,14 +147,7 @@ contract ContractName {
      * @notice Private functions are like internal ones but they are not visible in derived contracts.
      */
 
-    /////////////
-    // Getters //
-    /////////////
 
-    /**
-     * @notice Getters are functions that return the value of state variables.
-     * @notice state variables are more gas efficient when set to private so it it preffered to use getters to access them
-     */
 
     //////////////////////////////////////////////
     // Internal & private view & pure Functions //
@@ -163,4 +156,14 @@ contract ContractName {
     /////////////////////////////////////////////
     // External & public view & pure Functions //
     /////////////////////////////////////////////
+
+
+    /////////////
+    // Getters //
+    /////////////
+
+    /**
+     * @notice Getters are functions that return the value of state variables.
+     * @notice state variables are more gas efficient when set to private so it it preffered to use getters to access them
+     */
 }
